@@ -1,4 +1,4 @@
 # DWeb2
 
-creado para fin educativo
+creado para fin educativo.
 
