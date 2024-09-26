@@ -1,4 +1,6 @@
 # DWeb2
 
-creado para fin educativo
+Capítulo 1: Introducción a Github
+Capítulo 2: Flujo de trabajo básico
+Capítulo 3: Repositorios remotos
 
